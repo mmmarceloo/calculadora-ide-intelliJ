@@ -11,6 +11,7 @@ public class calculadora {
         System.out.println("Digite o segundo numero");
         b = scan.nextInt();
 
+
         int somar = somar(a, b);
         int subtracao = subtracao(a, b);
         double divisao = divisao(a, b);
